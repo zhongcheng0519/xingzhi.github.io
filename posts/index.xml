@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 行之行之</title>
+    <title>Posts on 行之与亦安</title>
     <link>https://zhongcheng0519.github.io/xingzhi.github.io/posts/</link>
-    <description>Recent content in Posts on 行之行之</description>
+    <description>Recent content in Posts on 行之与亦安</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 03 May 2022 11:25:27 +0800</lastBuildDate><atom:link href="https://zhongcheng0519.github.io/xingzhi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://zhongcheng0519.github.io/xingzhi.github.io/posts/my-first-post/</link>
+      <link>https://zhongcheng0519.github.io/xingzhi.github.io/2022/05/my-first-post/</link>
       <pubDate>Tue, 03 May 2022 11:25:27 +0800</pubDate>
       
-      <guid>https://zhongcheng0519.github.io/xingzhi.github.io/posts/my-first-post/</guid>
+      <guid>https://zhongcheng0519.github.io/xingzhi.github.io/2022/05/my-first-post/</guid>
       <description>Hello, world! </description>
     </item>
     
